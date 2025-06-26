@@ -1,1 +1,0 @@
-The dataset used in this pipeline is from the study PRJNA575031. You can download it from the NCBI SRA or the European Nucleotide Archive (ENA). For convenience, you can download and run the provided .sh file by first making it executable using chmod +x ena.sh, and then running it with ./ena.sh.
