@@ -8,5 +8,5 @@ Samtools
 Nextflow
 Conda
 
-## 🧬 Dataset
+##  Dataset
 The dataset used in this pipeline comes from the study **PRJNA575031**
